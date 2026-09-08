@@ -1,0 +1,6 @@
+COURSE CONTENT SIMPLIFICATION AGENT
+PROBLEM STATEMENT
+
+Students often struggle to understand complex academic and technical course content because it may contain difficult terminology, lengthy explanations, and concepts that assume prior knowledge.
+
+The objective is to build an AI-powered educational assistant that simplifies complex course content into clear, concise, and easy-to-understand explanations. The assistant should support students with different levels of prior knowledge and make difficult concepts easier to learn.
